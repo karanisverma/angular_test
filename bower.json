@@ -1,0 +1,24 @@
+{
+  "name": "npm",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "avibhardwaj <avishekbhardwaj91@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-nvd3": "^1.0.9"
+  },
+  "devDependencies": {
+    "angular-nvd3": "^1.0.9",
+    "angular-material": "^1.1.1"
+  }
+}
